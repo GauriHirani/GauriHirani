@@ -22,10 +22,11 @@ Python, SQL, R, PyTorch, TensorFlow/Keras, NumPy, pandas, scikit-learn, matplotl
 ## Projects
 
 1. [LSTM slogan generator and industry classifier](https://github.com/GauriHirani/lstm-slogan-generator-classifier) (TensorFlow/Keras)
-2. [Telco customer churn prediction](https://github.com/GauriHirani/telco-customer-churn-prediction) (Logistic regression vs. Random forest)
-3. [Character-level RNN text generator](https://github.com/GauriHirani/char-rnn-text-generator) (PyTorch, tinyshakespeare)
-4. [Bookstore management system](https://github.com/GauriHirani/bookstore-management-system) (Python/SQLite, CRUD)
-5. [Deep-sea mining ecotoxicology analysis](https://github.com/GauriHirani/deep-sea-mining-ecotoxicology) (R)
+2. [Telco customer churn prediction](https://github.com/GauriHirani/telco-customer-churn-prediction) (Logistic Regression vs. Random Forest)
+3. [Fashion-MNIST MLP image classifier](https://github.com/GauriHirani/fashion-mnist-mlp-classifier) (PyTorch)
+4. [Character-level RNN text generator](https://github.com/GauriHirani/char-rnn-text-generator) (PyTorch, Tiny Shakespeare)
+5. [Bookstore management system](https://github.com/GauriHirani/bookstore-management-system) (Python/SQLite, CRUD)
+6. [Deep-sea mining ecotoxicology analysis](https://github.com/GauriHirani/deep-sea-mining-ecotoxicology) (R)
 
 ## Get in touch
 
